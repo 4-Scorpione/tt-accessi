@@ -1,0 +1,30 @@
+{
+  "formato": 1,
+  "revisione": 1,
+  "aggiornato": "2026-11-22T13:39:45.115Z",
+  "kdf": {
+    "nome": "PBKDF2-SHA256",
+    "iterazioni": 600000
+  },
+  "token": {
+    "iv": "vYdYF7ich+phOlIy",
+    "ct": "koYYjHntTqdLCskDUfXH3spK/mnYI4x4VzD8+nrU4n0eT/RFDjbvIRL71TdzBvJB7LQlnliadk/jDws2zwNtR9Mmg7sDI3y4e6fRTgeKI9MM0s8Hohfw4LjTIDsqiBgxAb/H/n64ucFGDZb8Ng=="
+  },
+  "utenti": {
+    "d0c17fc4caa23bbacf6c6216a2698dcdd9dd80b9e610b4f6d268be5c40ae77e6": {
+      "salt": "MCM+pmssH4Gh0n4e1/yKjg==",
+      "chiave": {
+        "iv": "jpKDuJixVYRoR7c/",
+        "ct": "Gkp4UQrN2VdlxrW56tyH8DwOqHEwvWosVf6wtb7pxRnCaKmn8z0rZAb4VNZoViCA"
+      },
+      "accesso": {
+        "iv": "m7elnDE+5csJzHId",
+        "ct": "TeiRAC4o7EgX9WM1pIFR5QORcD59xT+8TzpQb+Bxf3NV2XNRpX+e4EoOuY3Tx+RMqYRxjqT7v1gr6U4mTx4qwWyYZsTB3OIaCW8IOimyq/02W/iB4IwTaln6+RKyUUMNEltviiK9f3n5JJBzXvy9e7IO3GiQ1Exw"
+      },
+      "custodia": {
+        "iv": "gdxMdr9btzYCKqIk",
+        "ct": "peETmrF/S3nMooWLceBCNPIh1rlNfAPn9cDLXTISXvc2RI2Mb7437tRqLGkB6TOg"
+      }
+    }
+  }
+}
