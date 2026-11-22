@@ -1,7 +1,7 @@
 {
   "formato": 1,
-  "revisione": 4,
-  "aggiornato": "2026-11-22T13:51:34.697Z",
+  "revisione": 5,
+  "aggiornato": "2026-11-22T13:51:39.107Z",
   "kdf": {
     "nome": "PBKDF2-SHA256",
     "iterazioni": 600000
@@ -69,6 +69,21 @@
       "custodia": {
         "iv": "GKKRLlix4h7d4Y+/",
         "ct": "KlLX5/0zUoypxc7lXj4VwN+4XslEXyktSkUYPz2k97tqn3oNG5rREbsTwcBh5lCt"
+      }
+    },
+    "bfb69fc019ebccdab49cb9b886d987efb80510d1fe8aee0f4c2fb33deb8a65b0": {
+      "salt": "BWC58etKDKusgxQIgEGYFw==",
+      "chiave": {
+        "iv": "baAoD74744EmGPGy",
+        "ct": "n6lEoZSVSyfPyv0gYOs+zHKipcQAgWmzrPwfmxjpSWsy1T3PZyL50FGbNP2lgRtb"
+      },
+      "accesso": {
+        "iv": "Sc6nYGT/YFO7ybGg",
+        "ct": "/Fv/O4uFIu6Ky79nyI89cvonJ4eLBajWCjUhR3aNcVEsfWFPH0eZiJIEG9cp4Wtb6ROVhjRyJ0IcfXZgFDa6rtQMEF4="
+      },
+      "custodia": {
+        "iv": "RUlnuBosTUs5Oy9d",
+        "ct": "zYLxc5UDk1pumCMJwmqUqVtOGd5tFZcyr+tRocBy88K8hy1UsOm2P5g3n0ryYfA1"
       }
     }
   }
